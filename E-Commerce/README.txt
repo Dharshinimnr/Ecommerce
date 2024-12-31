@@ -1,4 +1,4 @@
-                                                                                                                         E-Commerce Product Display Page
+                                               E-Commerce Product Display Page
 
  This project is a simple PHP-based e-commerce product display application designed for showcasing products in an organized and user-friendly interface.
 
